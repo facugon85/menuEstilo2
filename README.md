@@ -7,7 +7,7 @@ Diseñado con una estética **oscura, moderna y elegante**, integra navegación 
 
 ## 🖼️ Vista Previa
 
-![Burger Dark Preview](https://i.ibb.co/Y72fq7Br/darkc.png)
+![Burger Dark Preview](<img src="https://i.ibb.co/jP5dG3kY/portada.png" alt="portada" border="0">)
 
 ---
 
